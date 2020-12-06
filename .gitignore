@@ -1,0 +1,22 @@
+# Python
+*.pyc
+*~
+__pycache__
+
+
+# Env
+.env
+Linkedin/
+venv/
+
+# Database
+db.sqlite3
+portfoliodb
+
+# Static folder
+static/
+
+# Images folder
+images/
+
+
